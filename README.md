@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Cynthyá 👩 from 🇧🇷 living in 🇮🇪
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m studying every day a little bit 💻
+- 📫 We can exchange ideas to learn to each other. What do you think ? 😊
+- ✉️ cynthya.belloni@gmail.com
