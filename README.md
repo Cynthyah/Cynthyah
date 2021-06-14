@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Cynthyá 👩 from 🇧🇷 living in 🇮🇪
+- 👋 Hi! Oi!😊
+- 👩 My name is Cynthyá
+- 🇧🇷 I from Brazil
+- 🇮🇪 I am living in Ireland
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m studying every day a little bit 💻
-- 📫 We can exchange ideas to learn to each other. What do you think ? 😊
-- ✉️ cynthya.belloni@gmail.com
+- 🌱 I’m studying, a little bit, every day 💻
