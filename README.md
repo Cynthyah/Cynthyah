@@ -14,8 +14,10 @@ Hobbies 🎵📷🚴<br><br>
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=Cynthyah.Cynthyahc??style=for-the-badge&logo=appveyor"></a>
 </p>
 -->
-<p align='center'> "The day you become old is the day you're not looking for new experiences anymore."<br> 
-Billie Joe Armstrong</h6>
+
+<p align='center'>
+"The day you become old is the day you're not looking for new experiences anymore."<br> 
+Billie Joe Armstrong
 </p>
 
 
