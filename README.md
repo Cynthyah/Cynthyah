@@ -24,4 +24,13 @@ Billie Joe Armstrong
 ### Skills
 <img align="left" alt="Skill" src="https://user-images.githubusercontent.com/.png" />
 <p>&nbsp;</p>
+
+https://activity-graph.herokuapp.com/graph?username=Cynthyah&theme=xcode
 -->
+
+
+
+<h4 align="center">Connect with me </h4>
+<p align="center">
+<a href="https://www.linkedin.com/in/cynthyabelloni/"><img src="https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:cynthya.belloni@gmail.com"><img src="https://img.shields.io/badge/-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
