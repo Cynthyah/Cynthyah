@@ -20,5 +20,8 @@ Billie Joe Armstrong
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=Cynthyah.Cynthyahc??style=for-the-badge&logo=appveyor"></a><br>
   Thanks for visiting!
 </p>
--->
 
+### Skills
+<img align="left" alt="Skill" src="https://user-images.githubusercontent.com/.png" />
+<p>&nbsp;</p>
+-->
