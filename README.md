@@ -25,7 +25,6 @@ Billie Joe Armstrong
 <img align="left" alt="Skill" src="https://user-images.githubusercontent.com/.png" />
 <p>&nbsp;</p>
 
-https://activity-graph.herokuapp.com/graph?username=Cynthyah&theme=xcode
 -->
 
 
@@ -34,3 +33,8 @@ https://activity-graph.herokuapp.com/graph?username=Cynthyah&theme=xcode
 <p align="center">
 <a href="https://www.linkedin.com/in/cynthyabelloni/"><img src="https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:cynthya.belloni@gmail.com"><img src="https://img.shields.io/badge/-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+
+<!--
+## Contribution Graph
+[![Cynthyah's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cynthyah&theme=xcode)](https://github.com/cynthyah)
+-->
