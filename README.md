@@ -2,10 +2,10 @@
 
 <p align='center'>
 👩 My name is Cynthyá<br>
-📊 I'm a data analyst<br>
+📊 I'm a developer and very interested in data analysis<br>
 🇧🇷 I'm from Brazil<br>
 🇮🇪 Living in Ireland<br>
-🌱Currently studying Python, SQL, Power BI<br> 
+🌱I am currently participating in a program called FIT (Fastrack to Information Technology)<br>which is a representative organization of the technology industry committed to the growth of technology talent in Ireland<br> 
 Hobbies 🎵📷🚴<br><br>
 </p>
 
